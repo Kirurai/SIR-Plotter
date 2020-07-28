@@ -1,14 +1,14 @@
 # SIR-Plotter  
   
-##Contribuyentes  
+##Contribuyentes##  
 [De Filippi Bruno](https://github.com/bdefilippi)  
 [Henriquez Agustín](https://github.com/AgustinHenriquez)  
 [Miño Maurizio](https://github.com/MaurizioMi)  
   
-##Tema Propuesto:  
+##Tema Propuesto:##  
 Simulador de brote/contagios de pandemia.  
   
-##Características principales:  
+##Características principales:##  
 + Mostrar un gráfico estadístico durante el tiempo.  
 + Contar con un filtro para modificar variables y así poder generar nuevos casos de estudio.  
 + Permitir el guardado de simulaciones anteriores para poder realizar comparaciones.  
@@ -26,7 +26,7 @@ El programa se basa en un modelo SIR, lo que significa que la población se repa
 + Recuperados o Removidos: Aquellos que se han recuperado o han fallecido por la enfermedad, por lo tanto no son considerados  
 un factor nuevo de contagio. (R)  
   
-##Manual de uso  
+##Manual de uso##  
   
 1) Ejecutar LAUNCHER.sh  
   
@@ -69,9 +69,9 @@ un factor nuevo de contagio. (R)
   13. I: Valor final de Susceptibles  
   14. R: Valor final de Susceptibles  
     
-##Necesario para correr el programa
+##Necesario para correr el programa##  
 Tener instalado Python 3.6 y pip3 por lo menos. En Linux deben estar en los comandos de python y pip respectivamente en lugar de python2.7 se puede confirmar con python --version en la consola  
 instalar miniconda de https://conda.io/projects/conda/en/latest/user-guide/install/linux.html  
 instalar mediante el comando conda matplotlib, numpy y pandas  
 
-###Finalizado
+###Finalizado###  
