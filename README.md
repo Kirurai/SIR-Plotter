@@ -79,7 +79,8 @@ Tener instalado Python 3.6 y pip3 por lo menos. En Linux deben estar en los coma
 instalar miniconda de https://conda.io/projects/conda/en/latest/user-guide/install/linux.html  
 instalar mediante el comando conda matplotlib, numpy y pandas  
 
-
-Lenguaje usado: Python 3.7
-Ide utilizado: Pycharm
-Estado actual: Finalizado
+Utilizados:
+--
+Lenguaje usado: Python 3.7  
+Ide utilizado: Pycharm  
+Estado actual: Finalizado  
